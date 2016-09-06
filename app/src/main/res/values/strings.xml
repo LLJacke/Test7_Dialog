@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test7_Dialog</string>
+    <string name="bt_1">Click here</string>
+    <string name="bt_2">Login</string>
+    <string name="user_id">User ID</string>
+    <string name="password">Password</string>
+</resources>
